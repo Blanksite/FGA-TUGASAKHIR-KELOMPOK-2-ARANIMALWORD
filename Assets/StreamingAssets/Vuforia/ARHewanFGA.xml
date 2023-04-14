@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kupuu" size="1.000000 1.606354" />
+    <ImageTarget name="Paus2" size="1.000000 1.590971" />
+    <ImageTarget name="Kolibrii" size="1.000000 1.606354" />
+    <ImageTarget name="Lebahh" size="1.000000 1.606354" />
+    <ImageTarget name="Elangg" size="1.000000 1.606354" />
+    <ImageTarget name="Rayy" size="1.000000 1.590971" />
+    <ImageTarget name="Uburubur" size="1.000000 1.590971" />
+    <ImageTarget name="HiuMartill" size="1.000000 1.590971" />
+    <ImageTarget name="Ayam" size="1.000000 1.569501" />
+    <ImageTarget name="Rakun" size="1.000000 1.569501" />
+    <ImageTarget name="Rubah" size="1.000000 1.569501" />
+    <ImageTarget name="Kucing" size="1.000000 1.503374" />
+  </Tracking>
+</QCARConfig>
